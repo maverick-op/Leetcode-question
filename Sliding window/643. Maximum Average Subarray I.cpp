@@ -7,15 +7,15 @@ public:
         double sum=0;
         double maxx=INT_MIN;
         
-        while(i<n)
+        while(j<n)
         {
             sum += a[j];
             
-            if(i+j-1 > k)
+            if(j-i+1 < k)
             {
                 j++;
             }
-            else if(j- == k)
+            else if(j-i+1 == k)
             {
                 maxx = max(maxx,sum/k);
                 sum = sum - a[i];
