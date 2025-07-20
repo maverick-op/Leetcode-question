@@ -2,7 +2,7 @@ Aprroach:- Traverse through left part and right part and compare in which part
 the differnce between the nodes is maximum and return that part
 
 
-
+Solution:-
 class Solution {
 public:
     int maxAncestorDiff(TreeNode* root, int maxx=0, int minn=1e7) {
