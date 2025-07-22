@@ -5,6 +5,8 @@
 // Your solution must run in O(log n) time and O(1) space.
 
 
+solution:-
+
 class Solution {
 public:
     int singleNonDuplicate(vector<int>& a) {
