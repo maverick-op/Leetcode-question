@@ -1,3 +1,5 @@
+Solution:-
+
 class Solution {
 public:
     double findMaxAverage(vector<int>& a, int k) {
