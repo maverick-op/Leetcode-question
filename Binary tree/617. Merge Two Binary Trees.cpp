@@ -5,6 +5,8 @@
 // add the the root value of the both the tree and update it and 
 // return the root1
 
+solution:-
+
 class Solution {
 public:
     TreeNode* mergeTrees(TreeNode* root1, TreeNode* root2) {
