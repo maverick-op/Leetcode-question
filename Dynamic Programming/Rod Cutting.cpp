@@ -8,6 +8,8 @@ using namespace std;
  // } Driver Code Ends
 // User function Template for C++
 
+Solution:-
+
 class Solution{
   public:
     int cutRod(int price[], int n) {
